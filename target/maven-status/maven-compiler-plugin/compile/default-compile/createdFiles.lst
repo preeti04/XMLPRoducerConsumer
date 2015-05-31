@@ -1,0 +1,8 @@
+com\producer\consumer\RemoteXMLFileReader.class
+com\producer\consumer\XMLProducer.class
+com\producer\consumer\XMLConsumer.class
+com\producer\consumer\XMLParser.class
+com\producer\consumer\WaitingQueue.class
+com\producer\consumer\MergeXMLFile.class
+com\producer\consumer\XMLProducerConsumerMain.class
+com\producer\consumer\LocalXMLFileReader.class
